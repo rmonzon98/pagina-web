@@ -20,7 +20,10 @@ Página realizada con html y css:
  html: lenguaje de marcado que se utiliza para el desarrollo de páginas de Internet. Para crear un documento html, se crea un archivo de texto y se guarda como elemento .html
  css: lenguaje que describe el estilo de un documento html. Para crear un documento css, se crea un archivo de texto y se guarda como elemento .css
  
+ ## Problema con la font
+ Encontre la font que utilizan en esta página, pero debía pagar para utilizarla. Por lo que no cambie la font que trae por defecto.
  
+ ![alt text](https://github.com/rmonzon98/pagina-web/blob/master/fotos/font.PNG)
 
 ## Autor✒️
 Raúl Monzon 17014
